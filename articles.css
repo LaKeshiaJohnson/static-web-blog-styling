@@ -1,0 +1,54 @@
+#one {
+	background-color: #e6ffff;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 1em;
+	color: #82b3c9;
+	line-height: 70%;
+	padding: 10px;
+	border-radius: 2px;
+
+}
+
+#two {
+	background-color: #00897b;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	color: white;
+	line-height: 50%;
+	padding: 4px;
+	border-radius: 10px;
+
+}
+
+#three {
+	background-color: #f48fb1;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 1.4em;
+	color: #880e4f;
+	line-height: 110%;
+	padding: 30px;
+	border-radius: 60px;
+
+}
+
+#four {
+	background-color: #ffeb3b;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1.5em;
+	color: #002f6c;
+	line-height: 150%;
+	padding: 20px;
+	border-radius: 100px;
+
+}
+
+#five {
+	background-color: #bf360c;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 20px;
+	color: #ffb74d;
+	line-height: 200%;
+	padding: 50px;
+	border-radius: 30px;
+
+}
